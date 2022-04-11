@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background-color: burlywood;
+}
+
+h1 {
+  color: blue;
+}
+#saludar {
+  padding: 5px;
+  background: light-gray;
+  color: black;
+  width: 100%;
+}
+#saludar:hover {
+  padding: 5px;
+  background: gray;
+  color: brown;
+  width: 100%;
+}
+#saludar:active {
+  padding: 5px;
+  background: green;
+  color: blue;
+  width: 100%;
+}
